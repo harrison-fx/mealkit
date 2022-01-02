@@ -1,6 +1,5 @@
 <h1> Mealprep </h1> 
 
 Website created for a fictional company, created in 100% pure css, html & js.
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZOnEnXt" data-context="false" ><a href="//imgur.com/a/ZOnEnXt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://i.ibb.co/vXLm952/screencapture-mealprep-ai-netlify-app-2022-01-02-17-06-20.jpg">
 <a href="https://mealprep-ai.netlify.app/"> Live preview </a>
